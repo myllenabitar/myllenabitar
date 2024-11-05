@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Curriculo</h1>
+<h1 align="center">Portifólio Myllena Bitar-DEV</h1>
 <img src="https://github.com/user-attachments/assets/9c649bf4-21c2-4d3c-8d32-47ad7c2c3913" alt="">
 
 <h2>Badges:</h2>
