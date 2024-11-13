@@ -29,6 +29,15 @@
     color:#ffffff;
    
 }
+.x a::before{
+    background: url(../img/x.jpg) no-repeat center center;
+}
+.github a::before{
+    background: url(../img/Github.svg) no-repeat center center;
+}
+.linkedin a::before{
+    background: url(../img/Linkedin.svg) no-repeat center center;
+}
 .footer-contato a:after {
     content:"";
     display:block;

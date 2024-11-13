@@ -75,7 +75,6 @@
 .faculdade-instituicao{
      font-size:1.125rem;
      color:#a3a3a3;
-
 }
 .cursos{
     margin-bottom: 60px;
@@ -129,8 +128,10 @@
     .formacao-texto{
         font-size:1.125rem;
     }
-    .formacao-extra::before{
-        position:initial;
-        margin-bottom: 10px;
+    .cursos h3::before{
+        display:none;
+    }
+    .idiomas h3::before{
+        display:none;
     }
 } 
