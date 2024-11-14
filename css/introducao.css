@@ -25,7 +25,16 @@
     left: -40px;
     z-index: -1;
 }
-.introducao p {
+.apresentacao{
+    margin-top: 20px;
+    padding:20px 10px;
+    max-width: 550px;
+    text-align: justify;
+    font-size: 0.8rem;
+    font-style: italic;
+    color:#525252;
+}
+.classificacao{
     font-size: 1.5rem;
     color:#525252;
 }
