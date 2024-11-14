@@ -1,7 +1,7 @@
 <h1 align="center">Myllena Bitar Desenvolvedora Frontend.</h1>
 <img src="https://github.com/user-attachments/assets/9c649bf4-21c2-4d3c-8d32-47ad7c2c3913" alt="">
 <h2>Apresentação</h2>
-Olá! Meu nome é Myllena,👋 tenho 32 anos Sou formada em Odontologia pela Universidade do Estado do Amazonas, na cidade onde nasci. No entanto, não me identifiquei com a profissão após a formatura e, depois de passar por alguns percalços, acabei descobrindo a programação 👩‍💻 de forma inesperada, e me apaixonei por essa área.
+Olá! Meu nome é Myllena,👋 sou formada em Odontologia pela Universidade do Estado do Amazonas, na cidade onde nasci. No entanto, não me identifiquei com a profissão após a formatura e, depois de passar por alguns percalços, acabei descobrindo a programação 👩‍💻 de forma inesperada, e me apaixonei por essa área.
 
 Inicialmente, achei que seguiria pelo caminho do back-end, mas acabei me encantando com o front-end e design, onde encontrei o equilíbrio entre lógica e criatividade. Com o apoio de amigos e meu mentor William Grasel, que acreditaram em mim, fiz cursos pela Origamid e Udemy, e hoje participo de mentorias para evoluir cada vez mais. Estou em busca de uma transição de carreira para unir paixão e trabalho, e encontrar a felicidade profissional. ⭐
 
