@@ -6,6 +6,11 @@ Inicialmente, achei que seguiria pelo caminho do back-end, mas acabei me encanta
 
 Nos últimos dois anos, venho conciliando meus estudos em programação com o trabalho como dentista, mas agora me sinto pronta para dar esse próximo passo e aplicar minhas habilidades na prática. Quero crescer continuamente e contribuir de forma significativa com o que me proponho a fazer, ajudando outras pessoas e aprendendo todos os dias. E estou sempre fazendo projetos que refletem o dia a dia do desenvolvedor.
 
+Estou disponível e entusiasmada para novos desafios!😸 
+Aqui está meu portifólio:
+https://myllenabitar.github.io/myllenabitar/
+<h5>Att,</h5>
+
 <h2>Tecnologias:</h2>
 <h4>HTML</h4>
 <h4>CSS</h4>
@@ -13,11 +18,7 @@ Nos últimos dois anos, venho conciliando meus estudos em programação com o tr
 <h4>React.JS</h4>
 <h4>Next.JS</h4>
 <h4>Typescript</h4>
-Estou disponível e entusiasmada para novos desafios!😸 
 
-Aqui está meu portifólio:
-https://myllenabitar.github.io/myllenabitar/
- <h5>Att,</h5>
 <h3 align="center"> Observações: alguns respositórios meus tem links no ar para serem vistos e analisados!<h3>
 <h2>Atualizações:</h2>
 Ultima versão: Novembro 2024.
