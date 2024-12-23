@@ -6,6 +6,13 @@ Inicialmente, achei que seguiria pelo caminho do back-end, mas acabei me encanta
 
 Nos últimos dois anos, venho conciliando meus estudos em programação com o trabalho como dentista, mas agora me sinto pronta para dar esse próximo passo e aplicar minhas habilidades na prática. Quero crescer continuamente e contribuir de forma significativa com o que me proponho a fazer, ajudando outras pessoas e aprendendo todos os dias. E estou sempre fazendo projetos que refletem o dia a dia do desenvolvedor.
 
+<h2>Tecnologias:</h2>
+<h4>HTML</h4>
+<h4>CSS</h4>
+<h4>Javascript</h4>
+<h4>React.JS</h4>
+<h4>Next.JS</h4>
+<h4>Typescript</h4>
 Estou disponível e entusiasmada para novos desafios!😸 
 
 Aqui está meu portifólio:
