@@ -38,6 +38,10 @@
 .footer-contato a.ativo::after {
     width:1%;
 }
+.rede-social{
+    display:flex;
+    gap:20px;
+}
 
 
 @media(max-width:800px) {
