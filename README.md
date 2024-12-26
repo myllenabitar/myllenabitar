@@ -2,7 +2,7 @@
 <h2>Apresentação</h2>
 Olá! Meu nome é Myllena,👋 sou formada em Odontologia pela Universidade do Estado do Amazonas, na cidade onde nasci. No entanto, não me identifiquei com a profissão após a formatura e, acabei descobrindo a programação 👩‍💻 de forma inesperada, e me apaixonei por essa área.
 
-Inicialmente, achei que seguiria pelo caminho do back-end, mas acabei me encantando com o front-end e design, onde encontrei o equilíbrio entre lógica e criatividade. Com o apoio de amigos e meu mentor William Grasel, que acreditaram em mim, fiz cursos pela Programariam Origamid e Udemy, e hoje participo de mentoria para evoluir cada vez mais. Estou em busca de uma transição de carreira para unir paixão e trabalho, e encontrar a felicidade profissional. ⭐
+Inicialmente, achei que seguiria pelo caminho do back-end, até estudei um pouco de Python, mas acabei me encantando com o front-end e design, onde encontrei o equilíbrio entre lógica e criatividade. Com o apoio de amigos e meu mentor William Grasel, que acreditaram em mim, fiz cursos pela Programariam Origamid e Udemy, e hoje participo de meetups e mentoria para evoluir cada vez mais. Estou em busca de uma transição de carreira para unir paixão e trabalho, e encontrar a felicidade profissional. ⭐
 
 Nos últimos dois anos, venho conciliando meus estudos em programação com o trabalho como dentista, mas agora me sinto pronta para dar esse próximo passo e aplicar minhas habilidades na prática. Quero crescer continuamente e contribuir de forma significativa com o que me proponho a fazer, ajudando outras pessoas e aprendendo todos os dias. E estou sempre fazendo projetos que refletem o dia a dia do desenvolvedor.
 
