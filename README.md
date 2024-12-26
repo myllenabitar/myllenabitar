@@ -11,6 +11,15 @@ Aqui está meu portifólio:
 https://myllenabitar.github.io/myllenabitar/
 <h5>Att,</h5>
 
+
+| Rank  | Langs |
+| ------------- | ------------- |
+| 1 | JavaScript  |
+| 2 | HTML |
+| 3 | CSS |
+| 4 | HTML |
+
+
 <h2>Tecnologias:</h2>
 <h4>HTML</h4>
 <h4>CSS</h4>
