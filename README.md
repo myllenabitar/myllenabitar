@@ -38,8 +38,8 @@ Com o apoio de amigos e meu mentor **William Grasel**, fiz cursos pela **Program
 
 ## 🌟 Projetos em Destaque
 Aqui estão alguns dos meus projetos principais:  
-- 🎨 [**API Star Wars**](https://github.com/myllenabitar/api-star-wars): Um aplicativo que permite explorar personagens do universo Star Wars.  
-- 📋 [**To-Do List**](https://github.com/myllenabitar/to-do-list): Um gerenciador de tarefas funcional e minimalista para organizar o dia a dia.  
+- 🎨 [**Explorador Star Wars**](https://github.com/myllenabitar/api-star-wars): Um aplicativo que permite explorar personagens do universo Star Wars.  
+- 📋 [**Gerenciador de Tarefas/To-Do List**](https://github.com/myllenabitar/to-do-list): Um gerenciador de tarefas funcional e minimalista para organizar o dia a dia.  
 - 🗓️ [**Agenda de Consultório**](https://github.com/myllenabitar/agenda-consultorio): Sistema para agendamento de consultas, integrando design intuitivo e funcionalidades práticas.  
 - 📖 [**Portfólio Online**](https://myllenabitar.github.io/myllenabitar/): Meu portfólio profissional, onde você pode conhecer mais sobre mim e meus trabalhos.  
 
