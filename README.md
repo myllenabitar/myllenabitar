@@ -17,16 +17,14 @@ https://myllenabitar.github.io/myllenabitar/
 | 1 | JavaScript  |
 | 2 | HTML |
 | 3 | CSS |
-| 4 | HTML |
+| 4 | TypeScript|
+
+| Rank  | Framework |
+| ------------- | ------------- |
+| 1 | React.JS  |
+| 2 | Next.JS |
 
 
-<h2>Tecnologias:</h2>
-<h4>HTML</h4>
-<h4>CSS</h4>
-<h4>Javascript</h4>
-<h4>React.JS</h4>
-<h4>Next.JS</h4>
-<h4>Typescript</h4>
 
 <h3 align="center"> Observações: alguns respositórios meus tem links no ar para serem vistos e analisados!<h3>
 <h2>Atualizações:</h2>
