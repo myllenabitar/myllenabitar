@@ -1,12 +1,12 @@
-<h1 align="center">✨ Myllena Bitar - Desenvolvedora Front-End ✨</h1>
+<h1 align="center"> Myllena Bitar - Desenvolvedora Front-End </h1>
 
 <p align="center">
-🌐 Criando experiências web incríveis | 🎨 Unindo lógica e criatividade
+Criando experiências web incríveis |  Unindo lógica e criatividade
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 Olá! Sou a **Myllena Bitar**, uma desenvolvedora front-end apaixonada por criar aplicações web que equilibram **funcionalidade** e **design**.  
 
@@ -14,11 +14,11 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora front-end apaixonada por criar
 
 💻 **História e Inspiração**: Durante os últimos dois anos, conciliei meus estudos com a prática profissional, aprendendo com cursos da **Programaria**, **Origamid** e **Udemy** e com a mentoria de profissionais como **William Grasel**. Agora, estou pronta para dar o próximo passo e aplicar o que amo na resolução de problemas reais.
 
-✨ **Minha Missão**: Criar soluções práticas e esteticamente agradáveis, enquanto continuo explorando e aprendendo tecnologias inovadoras.
+ ⭐ **Minha Missão**: Criar soluções práticas e esteticamente agradáveis, enquanto continuo explorando e aprendendo tecnologias inovadoras.
 
 ---
 
-## 🎯 Tecnologias e Ferramentas
+## 🎯  Tecnologias e Ferramentas
 
 ### 💻 Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
