@@ -6,7 +6,7 @@ Criando experiências web incríveis |  Unindo lógica e criatividade
 
 ---
 
-##  :✨ Sobre Mim
+##  ✨ Sobre Mim
 
 Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar aplicações web que equilibram **funcionalidade** e **design**.  
 
