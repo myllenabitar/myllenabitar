@@ -1,4 +1,4 @@
-<h1 align="center"> Myllena Bitar - Desenvolvedora Frontend </h1>
+<h1 align="center"> Myllena Bitar - Desenvolvedora Frontend 👩‍💻 </h1>
 
 <p align="center">
 Criando experiências web incríveis |  Unindo lógica e criatividade
@@ -6,7 +6,7 @@ Criando experiências web incríveis |  Unindo lógica e criatividade
 
 ---
 
-##  Sobre Mim
+##  :✨ Sobre Mim
 
 Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar aplicações web que equilibram **funcionalidade** e **design**.  
 
