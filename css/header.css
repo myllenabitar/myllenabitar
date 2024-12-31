@@ -33,7 +33,13 @@
     color:#141414;
     display: block;
     text-align: left;
+    scroll-behavior: smooth;
+
 }
+.header-menu a:hover{
+    color:#0a29f5;
+}
+
 .header-menu a::after {
     content:"";
     display:block;
