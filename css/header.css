@@ -7,6 +7,11 @@
     align-items: center;
     justify-content: center;
 }
+.logo{
+   width: 32px;
+   height: 32px;
+   display: flex;
+}
 .header-menu::before {
     content:"";
     display: block;
@@ -21,6 +26,7 @@
 .header-menu{
     padding: 0;
     display:flex;
+    align-items: center;
     flex-wrap: wrap;
     gap: 40px;
 }
@@ -54,6 +60,12 @@
     width:1%;
 }
 @media (max-width:800px){
+    .logo{
+        width: 24px;
+        height: 24px;
+        gap: 5px;
+
+    }
     .header {
         padding:20px 10px;
     }
