@@ -32,16 +32,16 @@
     text-align: justify;
     font-size: 0.8rem;
     font-style: italic;
-    color:#525252;
+    color:var(--color-cinza-escuro);
 
 }
 .classificacao{
     font-size: 1.5rem;
-    color:#525252;
+    color:var(--color-cinza-escuro);
 
 }
 .ponto-azul{
-    color: #6375eb;
+    color: var(--color-azul-claro);
 }
 
 @media (max-width: 1000px) {
