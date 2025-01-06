@@ -42,7 +42,7 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
 ### 🎨 [**Explorador Star Wars**](https://github.com/myllenabitar/api-star-wars)  
 > Um aplicativo para explorar personagens do universo Star Wars. Funcionalidades como busca de informações detalhadas tornam este projeto uma combinação de diversão e aprendizado técnico.  
 
-### 📋 [**Gerenciador de Tarefas/To-Do List**](https://github.com/myllenabitar/to-do-list)  
+### 📋 [**Gerenciador de Tarefas/To-Do List**](https://github.com/myllenabitar/projeto-todo-list)  
 > Gerencie suas tarefas com uma interface prática e funcional. O projeto oferece opções de adicionar, editar, excluir e concluir tarefas.
 
 ### 🗓️ [**Agenda de Consultório**](https://github.com/myllenabitar/agenda-consultorio)  
@@ -75,11 +75,11 @@ Sinta-se à vontade para explorar meus repositórios, dar um ⭐ em projetos que
 Vamos nos conectar e trocar ideias?  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/myllenabitar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/myllenadesouzabitar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:myllena.bitar@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/myllenabitar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
-<h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos? ✨</h4>
+<h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos?! ✨</h4>
