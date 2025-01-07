@@ -33,17 +33,15 @@
     font-size: 0.8rem;
     font-style: italic;
     color:var(--color-cinza-escuro);
-
 }
 .classificacao{
     font-size: 1.5rem;
     color:var(--color-cinza-escuro);
-
+    gap: 10px;
 }
 .ponto-azul{
     color: var(--color-azul-claro);
 }
-
 @media (max-width: 1000px) {
     .introducao h1{
         font-size: 3rem;

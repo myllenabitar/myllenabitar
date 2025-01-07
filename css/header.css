@@ -73,7 +73,7 @@
         margin: 10px;
     }
     .header a{
-        background-color: var(--color-branco);
+        background-color: var();
         border-radius:4px;
         grid-template-columns: 1fr;
         font-size: 0.8rem; 
