@@ -63,7 +63,6 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
 </p>
 
 
-
 ---
 
 ## 📂 Como Contribuir
@@ -83,4 +82,8 @@ Vamos nos conectar e trocar ideias?
 
 ---
 
+## 🆙 Atualmente 
+<p align="center">Atualmente, estou me especializando em TypeScript🎓 com um curso da Origamid. Além disso, estou tentando melhorar meus projetos atuais, adicionando algo novo ou melhorando algo já implementado.</p>
+
+---
 <h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos?! ✨</h4>
