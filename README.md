@@ -15,8 +15,9 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
 💻 **História e Inspiração**: Durante os últimos dois anos, conciliei meus estudos com a prática profissional, aprendendo com cursos da **Programaria**, **Origamid** e **Udemy** e com a mentoria de profissionais como **William Grasel**. Agora, estou pronta para dar o próximo passo e aplicar o que amo na resolução de problemas reais.
 
  ⭐ **Minha Missão**: Criar soluções práticas e esteticamente agradáveis, enquanto continuo explorando e aprendendo tecnologias inovadoras.
+ 
+<p align="center"> Além do Código: Eu adoro culinária, música, gatos e games (talvez você encontre alguns projetos de jogos nesse perfil).</p> 
 
----
 
 ## 🎯  Tecnologias e Ferramentas
 
