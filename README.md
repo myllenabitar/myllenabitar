@@ -58,7 +58,6 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=myllenabitar&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="165">
-  <img src="https://streak-stats.demolab.com/?user=myllenabitar&theme=radical" alt="GitHub Streak" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myllenabitar&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="165">
 </p>
 
