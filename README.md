@@ -6,7 +6,7 @@ Criando experiências web incríveis |  Unindo lógica e criatividade
 
 ---
 
-##  ✨ Sobre Mim
+## ✨ Sobre Mim
 
 Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar aplicações web que equilibram **funcionalidade** e **design**.  
 
@@ -14,11 +14,12 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
 
 💻 **História e Inspiração**: Durante os últimos dois anos, conciliei meus estudos com a prática profissional, aprendendo com cursos da **Programaria**, **Origamid** e **Udemy** e com a mentoria de profissionais como **William Grasel**. Agora, estou pronta para dar o próximo passo e aplicar o que amo na resolução de problemas reais.
 
- ⭐ **Minha Missão**: Criar soluções práticas e esteticamente agradáveis, enquanto continuo explorando e aprendendo tecnologias inovadoras.
+⭐ **Minha Missão**: Criar soluções práticas e esteticamente agradáveis, enquanto continuo explorando e aprendendo tecnologias inovadoras.
+ 
+<p align="center"> Além do Código: Eu adoro culinária, música, gatos e games (talvez você encontre alguns projetos de jogos nesse perfil).</p> 
 
----
 
-## 🎯  Tecnologias e Ferramentas
+## 🎯 Tecnologias e Ferramentas
 
 ### 💻 Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -29,6 +30,7 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
 ### 🚀 Frameworks e Bibliotecas
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 🛠 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -57,11 +59,9 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=myllenabitar&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="165">
-  <img src="https://streak-stats.demolab.com/?user=myllenabitar&theme=radical" alt="GitHub Streak" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myllenabitar&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="165">
+  <img src="https://streak-stats.demolab.com?user=MyllenaBitar&theme=radical&hide_border=true)](https://git.io/streak-stats" alt="Streak Stats">
 </p>
-
-
 
 ---
 
@@ -70,6 +70,10 @@ Sinta-se à vontade para explorar meus repositórios, dar um ⭐ em projetos que
 
 ---
 
+## 🆙 Atualmente 
+<p align="center">Atualmente, estou me especializando em TypeScript e Tailwind 🎓 com o curso da Origamid. Nos horários livres estou estudando um pouco sobre LLM's e Prompt Engineering. Além disso, estou tentando melhorar meus projetos atuais, adicionando algo novo ou melhorando algo já implementado.</p>
+
+---
 ## 📬 Contato
 
 Vamos nos conectar e trocar ideias?  
@@ -81,5 +85,4 @@ Vamos nos conectar e trocar ideias?
 </p>
 
 ---
-
 <h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos?! ✨</h4>
