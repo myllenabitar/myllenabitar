@@ -1,7 +1,7 @@
 <h1 align="center"> Myllena Bitar - Desenvolvedora Frontend 👩‍💻 </h1>
 
 <p align="center">
-Criando experiências web incríveis |  Unindo lógica e criatividade
+🎨 Criando experiências web incríveis |  Unindo lógica e criatividade 💻
 </p>
 
 ---
