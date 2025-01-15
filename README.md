@@ -10,7 +10,7 @@
 
 Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar aplicações web que equilibram **funcionalidade** e **design**.  
 
-🦷 **Transição de Carreira**: Após me formar em **Odontologia** pela Universidade do Estado do Amazonas, descobri a programação e mergulhei de cabeça nesse universo. A combinação de lógica e criatividade me cativou, e desde então venho evoluindo como profissional de tecnologia.
+🦷 **Transição de Carreira**: Após me formar em **Odontologia** pela Universidade do Estado do Amazonas em Manaus, mudei para São Paulo, descobri a programação e mergulhei de cabeça nesse universo. A combinação de lógica e criatividade me cativou, e desde então venho evoluindo como profissional de tecnologia.
 
 💻 **História e Inspiração**: Durante os últimos dois anos, conciliei meus estudos com a prática profissional, aprendendo com cursos da **Programaria**, **Origamid** e **Udemy** e com a mentoria de profissionais como **William Grasel**. Agora, estou pronta para dar o próximo passo e aplicar o que amo na resolução de problemas reais.
 
