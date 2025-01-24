@@ -1,7 +1,7 @@
 <h1 align="center"> Myllena Bitar - Desenvolvedora Frontend 👩‍💻 </h1>
 
 <p align="center">
-Criando experiências web incríveis |  Unindo lógica e criatividade
+🎨 Criando experiências web incríveis |  Unindo lógica e criatividade 💻
 </p>
 
 ---
@@ -10,7 +10,7 @@ Criando experiências web incríveis |  Unindo lógica e criatividade
 
 Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar aplicações web que equilibram **funcionalidade** e **design**.  
 
-🦷 **Transição de Carreira**: Após me formar em **Odontologia** pela Universidade do Estado do Amazonas, descobri a programação e mergulhei de cabeça nesse universo. A combinação de lógica e criatividade me cativou, e desde então venho evoluindo como profissional de tecnologia.
+🦷 **Transição de Carreira**: Após me formar em **Odontologia** pela Universidade do Estado do Amazonas em Manaus, quando me mudei para São Paulo, descobri a programação e mergulhei de cabeça nesse universo. A combinação de lógica e criatividade me cativou, e desde então venho evoluindo como profissional de tecnologia.
 
 💻 **História e Inspiração**: Durante os últimos dois anos, conciliei meus estudos com a prática profissional, aprendendo com cursos da **Programaria**, **Origamid** e **Udemy** e com a mentoria de profissionais como **William Grasel**. Agora, estou pronta para dar o próximo passo e aplicar o que amo na resolução de problemas reais.
 
@@ -61,6 +61,7 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
   <img src="https://github-readme-stats.vercel.app/api?username=myllenabitar&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myllenabitar&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="165">
   <img src="https://streak-stats.demolab.com?user=MyllenaBitar&theme=radical&hide_border=true)](https://git.io/streak-stats" alt="Streak Stats">
+  
 </p>
 
 ---
@@ -85,4 +86,4 @@ Vamos nos conectar e trocar ideias?
 </p>
 
 ---
-<h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos?! ✨</h4>
+<h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos?! :)✨</h4>
