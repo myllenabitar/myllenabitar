@@ -25,15 +25,7 @@
     left: -40px;
     z-index: -1;
 }
-.apresentacao{
-    margin-top: 20px;
-    padding:20px 10px;
-    max-width: 550px;
-    text-align: justify;
-    font-size: 0.8rem;
-    font-style: italic;
-    color:var(--color-cinza-escuro);
-}
+
 .classificacao{
     font-size: 1.5rem;
     color:var(--color-cinza-escuro);
