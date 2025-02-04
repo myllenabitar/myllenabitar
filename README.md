@@ -72,7 +72,7 @@ Sinta-se à vontade para explorar meus repositórios, dar um ⭐ em projetos que
 ---
 
 ## 🆙 Atualmente 
-<p align="center">Atualmente, estou me especializando em TypeScript e Tailwind 🎓 com o curso da Origamid. Nos horários livres estou estudando um pouco sobre LLM's e Prompt Engineering. Além disso, estou tentando melhorar meus projetos atuais, adicionando algo novo ou melhorando algo já implementado.</p>
+<p align="center">Atualmente, estou me especializando em TypeScript e Tailwind 🎓 com o curso da Origamid. Nos horários livres estou estudando um pouco sobre LLM's e Prompt Engineering. Além disso, estou fazendo um site para ser meu blog pessoal e contar o que estou aprendendo com posts, videos e etc, e estou constantemente tentando melhorar meus projetos atuais, adicionando algo novo ou melhorando algo já implementado.</p>
 
 ---
 ## 📬 Contato
