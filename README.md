@@ -77,7 +77,7 @@ Sinta-se à vontade para explorar meus repositórios, dar um ⭐ em projetos que
 ---
 ## 📬 Contato
 
-Vamos nos conectar e trocar ideias?  
+Vamos nos conectar e trocar ideias?  :)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/myllenadesouzabitar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
