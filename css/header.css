@@ -29,6 +29,7 @@
     align-items: center;
     flex-wrap: wrap;
     gap: 40px;
+    
 }
 .header-menu a{
     font-size: 1.125rem;
@@ -39,7 +40,7 @@
     color:var(--color-preto);
     display: block;
     text-align: left;
-    scroll-behavior: smooth;
+    
 }
 .header-menu a:hover{
     color:var( --color-azul-escuro);

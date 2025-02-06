@@ -11,7 +11,12 @@ body{
     --color-cinza-escuro: #525252;
     --color-cinza-medio:#a3a3a3;
     --color-cinza-claro:#cccccc;
+    
 }
+html {
+    scroll-behavior: smooth;
+}
+  
 h1, h2, h3, p{
     margin: 0px;
 }
