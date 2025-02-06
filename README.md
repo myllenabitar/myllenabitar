@@ -31,6 +31,7 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ### 🛠 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -60,8 +61,7 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=myllenabitar&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myllenabitar&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="165">
-  <img src="https://streak-stats.demolab.com?user=MyllenaBitar&theme=radical&hide_border=true)](https://git.io/streak-stats" alt="Streak Stats">
-  
+  <img src="https://streak-stats.demolab.com?user=MyllenaBitar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats Atualizado Diariamente">
 </p>
 
 ---
@@ -72,12 +72,13 @@ Sinta-se à vontade para explorar meus repositórios, dar um ⭐ em projetos que
 ---
 
 ## 🆙 Atualmente 
-<p align="center">Atualmente, estou me especializando em TypeScript e Tailwind 🎓 com o curso da Origamid. Nos horários livres estou estudando um pouco sobre LLM's e Prompt Engineering. Além disso, estou fazendo um site para ser meu blog pessoal e contar o que estou aprendendo com posts, videos e etc, e estou constantemente tentando melhorar meus projetos atuais, adicionando algo novo ou melhorando algo já implementado.</p>
+<p align="center">Atualmente, estou me especializando em **TypeScript** e **TailwindCSS** 🎓 com o curso da **Origamid**. Nos horários livres estou estudando **LLM's e Prompt Engineering**. Além disso, estou criando um **site para ser meu blog pessoal**, onde vou compartilhar o que estou aprendendo com posts, vídeos e outras experiências. Sempre procuro melhorar meus projetos atuais, adicionando algo novo ou aprimorando funcionalidades existentes.</p>
 
 ---
+
 ## 📬 Contato
 
-Vamos nos conectar e trocar ideias?  :)
+Vamos nos conectar e trocar ideias? 😄  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/myllenadesouzabitar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -86,6 +87,5 @@ Vamos nos conectar e trocar ideias?  :)
 </p>
 
 ---
-<h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos?! :)✨</h4>
 
-
+<h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos?! ✨</h4>
