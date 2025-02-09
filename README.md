@@ -1,7 +1,7 @@
-<h1 align="center"> Myllena Bitar - Desenvolvedora Frontend 👩‍💻 </h1>
+# <h1 align="center"> Myllena Bitar - Desenvolvedora Frontend 👩‍💻 </h1>
 
 <p align="center">
-🎨 Criando experiências web incríveis |  Unindo lógica e criatividade 💻
+🎨 Criando experiências web incríveis | Unindo lógica e criatividade 💻
 </p>
 
 ---
@@ -16,8 +16,9 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
 
 ⭐ **Minha Missão**: Criar soluções práticas e esteticamente agradáveis, enquanto continuo explorando e aprendendo tecnologias inovadoras.
  
-<p align="center"> Além do Código: Eu adoro culinária, música, gatos e games (talvez você encontre alguns projetos de jogos nesse perfil).</p> 
+<p align="center"> Além do Código: Eu adoro culinária, música, gatos e games (talvez você encontre alguns projetos de jogos nesse perfil). </p>
 
+---
 
 ## 🎯 Tecnologias e Ferramentas
 
@@ -62,8 +63,6 @@ Olá! Sou a **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar 
   <img src="https://github-readme-stats.vercel.app/api?username=myllenabitar&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myllenabitar&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="165">
   <img src="https://streak-stats.demolab.com?user=MyllenaBitar&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="Streak Stats Atualizado" height="165">
-
-  
 </p>
 
 ---
@@ -85,8 +84,10 @@ Vamos nos conectar e trocar ideias? 😄
 <p align="center">
 <a href="https://www.linkedin.com/in/myllenadesouzabitar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:myllena.bitar@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://x.com/mdsb1992"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" alt="X"></a>
+<a href="https://youtube.com/myllenabitar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
 
-
+### ☎️ [**Clique aqui para falar comigo no WhatsApp**](https://wa.me/5511963159685)
 </p>
 
 ---
