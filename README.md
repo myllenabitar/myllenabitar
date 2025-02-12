@@ -77,6 +77,11 @@ Sinta-se à vontade para explorar meus repositórios, dar um ⭐ em projetos que
 
 ---
 
+## 📹 Videos
+Aqui está o meu portifólio sendo demonstrado em um video rápido!
+[Portifólio](https://youtu.be/zCms6GUZK6Q?si=hV36Rlp7QzQMxXlk)
+
+
 ## 📬 Contato
 
 Vamos nos conectar e trocar ideias? 😄  
