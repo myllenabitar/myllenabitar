@@ -44,23 +44,29 @@
     flex-wrap: wrap;
     gap:15px;
     margin-bottom: 60px;
-
+    
 }
 .faculdade{
     flex:1;
-    background: var(--color-preto);
     padding:20px;
     border-radius: 4px;
     display:flex;
     flex-direction: column;
     gap:10px;
+    background: linear-gradient(135deg, #222222, #141414);
+    transition: all 0.3s ease;
 }
+.faculdade:hover{
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
 .faculdade-tipo{
     font-size:.8rem;
     text-transform: uppercase;
     color:var(--color-cinza-medio);
     margin-bottom: 10px;
-
+   
 }
 .faculdade-curso{
     flex:1;
