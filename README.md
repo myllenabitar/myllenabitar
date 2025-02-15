@@ -16,7 +16,7 @@ Olá! meu nome é **Myllena Bitar**, uma desenvolvedora frontend apaixonada por 
 
 ⭐ **Minha Missão**: Criar soluções práticas e esteticamente agradáveis, enquanto continuo explorando e aprendendo tecnologias inovadoras.
  
-<p align="center"> Além do Código: Eu adoro culinária, música, gatos e games (talvez você encontre alguns projetos de jogos nesse perfil). </p>
+<p align="center"> Além do Código: Eu adoro culinária, música, gatos e games (talvez você encontre alguns projetos de jogos nesse perfil. rsrs). </p>
 
 ---
 
