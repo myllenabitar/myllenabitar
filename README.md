@@ -15,6 +15,8 @@ Olá! meu nome é **Myllena Bitar**, uma desenvolvedora frontend apaixonada por 
 💻 **História e Inspiração**: Durante os últimos dois anos, conciliei meus estudos com a prática profissional, aprendendo com cursos da **Programaria**, **Origamid** e **Udemy** e com a mentoria de profissionais como **William Grasel**. Agora, estou pronta para dar o próximo passo e aplicar o que amo na resolução de problemas reais.
 
 ⭐ **Minha Missão**: Criar soluções práticas e esteticamente agradáveis, enquanto continuo explorando e aprendendo tecnologias inovadoras.
+
+ <p> Desenvolvo interfaces e aplicações Frontend com foco em performance e experiência do usuário, utilizando HTML, CSS e JavaScript. Tenho experiência em bibliotecas modernas, como React.JS, e frameworks avançados, como Next.JS, para criar soluções escaláveis e interativas. Também, já tive experiências em Backend com Node.JS. <p>
  
 <p align="center"> Além do Código: Eu adoro culinária, música, gatos e games (talvez você encontre alguns projetos de jogos nesse perfil. rsrs). </p>
 
