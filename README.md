@@ -16,7 +16,7 @@ Olá! meu nome é **Myllena Bitar**, uma desenvolvedora frontend apaixonada por 
 
 ⭐ **Minha Missão**: Criar soluções práticas e esteticamente agradáveis, enquanto continuo explorando e aprendendo tecnologias inovadoras.
 
- <p> Desenvolvo interfaces e aplicações Frontend com foco em performance e experiência do usuário, utilizando HTML, CSS e JavaScript. Tenho experiência em bibliotecas modernas, como React.JS, e frameworks avançados, como Next.JS, para criar soluções escaláveis e interativas. Também, já tive experiências em Backend com Node.JS. <p>
+ <p> Desenvolvo interfaces e aplicações Frontend com foco em performance e experiência do usuário, utilizando HTML, CSS, Tyescript e JavaScript. Tenho experiência em bibliotecas modernas, como React.JS, e frameworks avançados, como Next.JS e Tailwind, para criar soluções escaláveis e interativas. Também, já tive experiências em Backend com Node.JS. <p>
  
 <p align="center"> Além do Código: Eu adoro culinária, música, gatos e games (talvez você encontre alguns projetos de jogos nesse perfil. rsrs). </p>
 
@@ -75,7 +75,7 @@ Sinta-se à vontade para explorar meus repositórios, dar um ⭐ em projetos que
 ---
 
 ## 🆙 Atualmente 
-<p align="center">Atualmente, estou me especializando em TypeScript e TailwindCSS 🎓 com o curso da Origamid. Nos horários livres estou estudando LLM's e Prompt Engineering. Além disso, estou criando um site para ser meu blog pessoal, onde vou compartilhar o que estou aprendendo com posts, vídeos e outras experiências. Sempre procuro melhorar meus projetos atuais, adicionando algo novo ou aprimorando funcionalidades existentes.</p>
+<p align="center">Atualmente, estou focando em me especializar em TypeScript e TailwindCSS 🎓 com o curso da Origamid. Nos horários livres estou estudando LLM's e Prompt Engineering. Além disso, estou criando um site para ser meu blog pessoal, onde vou compartilhar o que estou aprendendo com posts, vídeos e outras experiências. Estou sempre procurando melhorar meus projetos atuais, adicionando algo novo ou aprimorando funcionalidades existentes.</p>
 
 ---
 
