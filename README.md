@@ -75,7 +75,7 @@ Sinta-se à vontade para explorar meus repositórios, dar um ⭐ em projetos que
 ---
 
 ## 🆙 Atualmente 
-<p align="center">Atualmente, estou focando em me especializar mais ainda em CSS e UI E UX com o curso da Origamid. Nos horários livres estou estudando LLM's e Prompt Engineering. Além disso, estou criando um site para ser meu blog pessoal, onde vou compartilhar o que estou aprendendo com posts, vídeos e outras experiências. Estou sempre procurando melhorar meus projetos atuais, adicionando algo novo ou aprimorando funcionalidades existentes.</p>
+<p align="center">Atualmente, estou focando em me especializar mais ainda em UI E UX com o curso da Origamid e estudando sobre testes Jest e Cypress. Nos horários livres estou estudando LLM's e Prompt Engineering. Além disso, estou criando um site para ser meu blog pessoal, onde vou compartilhar o que estou aprendendo com posts, vídeos e outras experiências. Estou sempre procurando melhorar meus projetos atuais, adicionando algo novo ou aprimorando funcionalidades existentes.</p>
 
 ---
 
