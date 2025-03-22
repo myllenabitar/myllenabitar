@@ -1,4 +1,4 @@
-# <h1 align="center"> Myllena Bitar - Desenvolvedora Frontend 👩‍💻 </h1>
+# <h1 align="center"> Myllena de Souza Bitar - Desenvolvedora Frontend 👩‍💻 </h1>
 
 <p align="center">
 🎨 Criando experiências web incríveis | Unindo lógica e criatividade 💻
