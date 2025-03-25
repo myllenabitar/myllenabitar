@@ -48,7 +48,7 @@ Olá! meu nome é **Myllena Bitar**, uma desenvolvedora frontend apaixonada por 
 > Este projeto utiliza a API pública da SpaceX para exibir informações atualizadas sobre os lançamentos espaciais da empresa. A aplicação permite visualizar dados detalhados dos lançamentos, como nome da missão, data, foguete utilizado. 
 
 ### 📋 [**Gerenciador de Tarefas/To-Do List**](https://github.com/myllenabitar/projeto-todo-list)  
-✅  Tecnologias: React.js, TypeScript.
+✅  Tecnologias: React.js, JavaScript.
 > Gerencie suas tarefas com uma interface prática e funcional. O projeto oferece opções de adicionar, editar, excluir e concluir tarefas.
 
 ### 🗓️ [**Agenda de Consultório**](https://github.com/myllenabitar/agenda-consultorio)
@@ -56,7 +56,7 @@ Olá! meu nome é **Myllena Bitar**, uma desenvolvedora frontend apaixonada por 
 > Sistema para agendamento de consultas, com funcionalidades como escolha de datas, horários e profissionais, e um design intuitivo.
 
 ### 🌐 [**Portfólio Online**](https://myllenabitar.github.io/myllenabitar/)
-💻 Tecnologias: HTML5, CSS3, JavaScript.
+💻 Tecnologias: HTML5, CSS3.
 > Meu site pessoal, destacando meus projetos, habilidades e trajetória profissional.
 
 ---
