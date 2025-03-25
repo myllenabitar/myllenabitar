@@ -8,7 +8,7 @@
 
 ## ✨ Sobre Mim
 
-Olá! meu nome é **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar aplicações web que equilibram **funcionalidade** e **design**.  
+Olá! meu nome é **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar aplicações que equilibram **funcionalidade** e **design**.  
 
 🦷 **Transição de Carreira**: Após me formar em **Odontologia** pela Universidade do Estado do Amazonas em Manaus, quando me mudei para São Paulo, descobri a programação e mergulhei de cabeça nesse universo. A combinação de lógica e criatividade me cativou, e desde então venho evoluindo como profissional de tecnologia.
 
