@@ -34,6 +34,9 @@
 .ponto-azul{
     color: var(--color-azul-claro);
 }
+.myllena {
+    border-radius: 10px;
+}
 @media (max-width: 1000px) {
     .introducao h1{
         font-size: 3rem;
