@@ -78,7 +78,7 @@ Sinta-se à vontade para explorar meus repositórios, dar um ⭐ em projetos que
 ---
 
 ## 🆙 Atualmente 
-<p align="center">Atualmente, estou focando em me especializar mais ainda em UI E UX com o curso da Origamid. Sempre revisando lógica e algoritmos. Além disso, estou criando um site para ser meu blog pessoal, feito em Next.js e Typescript, onde vou compartilhar o que estou aprendendo com posts, vídeos e outras experiências. Estou tentando aprender uma nova ferramenta: Visual Studio e me introduzir no mundo do backend com c#. Estou sempre procurando melhorar meus projetos atuais, adicionando algo novo ou aprimorando funcionalidades existentes.</p>
+<p align="center">Atualmente, estou focando em me especializar mais ainda em UI E UX com o curso da Origamid. Estou sempre revisando lógica e algoritmos. Além disso, estou criando um site para ser meu blog pessoal, feito em Next.js e Typescript, onde vou compartilhar o que estou aprendendo com posts, vídeos e outras experiências. Estou tentando aprender uma nova ferramenta: Visual Studio e me introduzindo no mundo do backend com C#. Estou sempre procurando melhorar meus projetos atuais, adicionando algo novo ou aprimorando funcionalidades existentes.</p>
 
 ---
 
