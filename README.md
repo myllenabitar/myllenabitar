@@ -1,105 +1,93 @@
-# <h1 align="center"> Myllena de Souza Bitar - Desenvolvedora Frontend 👩‍💻 </h1>
+# <h1 align="center"> Myllena de Souza Bitar - Desenvolvedora Fullstack 👩‍💻🎨 </h1>
 
 <p align="center">
-🎨 Criando experiências | Unindo lógica e criatividade 💻
+Criando soluções web que unem lógica, estética e experiência do usuário ✨
 </p>
 
 ---
 
 ## ✨ Sobre Mim
 
-Olá! meu nome é **Myllena Bitar**, uma desenvolvedora frontend apaixonada por criar aplicações que equilibram **funcionalidade** e **design**.  
+Olá! Meu nome é **Myllena Bitar**, sou **Desenvolvedora Fullstack**, apaixonada por criar aplicações web que equilibram **funcionalidade, performance e design**.
 
-🦷 **Transição de Carreira**: Após me formar em **Odontologia** pela Universidade do Estado do Amazonas em Manaus, quando me mudei para São Paulo, descobri a programação e mergulhei de cabeça nesse universo. A combinação de lógica e criatividade me cativou, e desde então venho evoluindo como profissional de tecnologia.
+🦷 **Transição de Carreira**: Sou formada em **Odontologia** pela Universidade do Estado do Amazonas (UEA). Após me mudar para São Paulo, descobri a programação e encontrei na tecnologia a combinação perfeita entre lógica, criatividade e resolução de problemas.
 
-💻 **História e Inspiração**: Durante os últimos dois anos, conciliei meus estudos com a prática profissional, aprendendo com cursos da **Programaria**, **Origamid** e **Udemy** e com a mentoria de profissionais como **William Grasel**. Agora, estou pronta para dar o próximo passo e aplicar o que amo na resolução de problemas reais.
+💻 **Experiência e Evolução**: Atuo profissionalmente no desenvolvimento de soluções web voltadas a **Governança, Riscos e Compliance (GRC)**, trabalhando tanto no **front-end** quanto no **back-end**, além de participar da concepção visual e experiência do usuário através do **Figma**. Minha formação em tecnologia inclui cursos pela **Origamid**, **Alura**, **Udemy** e **Programaria**, além de mentorias que contribuíram fortemente para minha evolução técnica.
 
-⭐ **Minha Missão**: Criar soluções práticas e esteticamente agradáveis, enquanto continuo explorando e aprendendo tecnologias inovadoras.
+⭐ **Meu objetivo** é desenvolver soluções escaláveis, bem estruturadas e visualmente agradáveis, sempre buscando boas práticas, aprendizado contínuo e impacto real no produto.
 
- <p> Desenvolvo interfaces e aplicações Frontend com foco em performance e experiência do usuário, utilizando HTML, CSS, Typescript e JavaScript. Tenho experiência em bibliotecas modernas, como React.JS, e frameworks avançados, como Next.JS e Tailwind, para criar soluções escaláveis e interativas. Também, já tive experiências em Backend com Node.JS. <p>
- 
+<p>
+Atuo no desenvolvimento de aplicações web completas, criando interfaces responsivas e interativas com foco em experiência do usuário, utilizando React, TypeScript, JavaScript, HTML e CSS. Trabalho com bibliotecas e frameworks modernos como Material UI, Next.js e Tailwind CSS, além de atuar no backend com C#, .NET e Node.js, garantindo integração eficiente entre front-end e back-end.
+</p>
+
 ---
 
 ## 🎯 Tecnologias e Ferramentas
 
 ### 💻 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-### 🚀 Frameworks e Bibliotecas
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=csharp\&logoColor=white)
 
-### 🛠 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### 🚀 Frameworks, Bibliotecas e Arquitetura
+
+![React.js](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat\&logo=mui\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+
+![MVC](https://img.shields.io/badge/Arquitetura-MVC-6A5ACD?style=flat\&logo=dotnet\&logoColor=white)
+
+### 🎨 Design e Ferramentas
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat\&logo=visualstudiocode\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat\&logo=visualstudio\&logoColor=white)
 
 ---
 
 ## 🌟 Projetos em Destaque
 
-### 🎨 [**Projeto SpaceX**](https://github.com/myllenabitar/projeto-api-spacex)
-🚀 Tecnologias: React.js, TypeScript, Tailwind CSS, API pública da SpaceX.
-> Este projeto utiliza a API pública da SpaceX para exibir informações atualizadas sobre os lançamentos espaciais da empresa. A aplicação permite visualizar dados detalhados dos lançamentos, como nome da missão, data, foguete utilizado. 
+### 🎨 **Projeto SpaceX**
 
-### 📋 [**Gerenciador de Tarefas/To-Do List**](https://github.com/myllenabitar/projeto-todo-list)  
-✅  Tecnologias: React.js, JavaScript.
-> Gerencie suas tarefas com uma interface prática e funcional. O projeto oferece opções de adicionar, editar, excluir e concluir tarefas.
+🚀 Tecnologias: React.js, TypeScript, Tailwind CSS, API pública da SpaceX
 
-### 🗓️ [**Agenda de Consultório**](https://github.com/myllenabitar/agenda-consultorio)
-🏥 Tecnologias: Next.js, TypeScript, CSS, React Hook Form
-> Sistema para agendamento de consultas, com funcionalidades como escolha de datas, horários e profissionais, e um design intuitivo.
+> Aplicação que consome a API pública da SpaceX para exibir informações detalhadas sobre lançamentos espaciais, com foco em organização de dados, performance e experiência do usuário.
 
-### 🌐 [**Portfólio Online**](https://myllenabitar.github.io/myllenabitar/)
-💻 Tecnologias: HTML5, CSS3.
-> Meu site pessoal, destacando meus projetos, habilidades e trajetória profissional.
+### 📋 **Gerenciador de Tarefas (To-Do List)**
+
+✅ Tecnologias: React.js, JavaScript
+
+> Aplicação para gerenciamento de tarefas com funcionalidades de adicionar, editar, excluir e concluir atividades.
+
+### 🗓️ **Agenda de Consultório**
+
+🏥 Tecnologias: Next.js, TypeScript, React Hook Form
+
+> Sistema de agendamento de consultas com seleção de datas, horários e profissionais, focado em usabilidade e organização.
+
+### 🌐 **Portfólio Online**
+
+💻 Tecnologias: HTML5, CSS3
+
+> Site pessoal para apresentação de projetos, habilidades e trajetória profissional.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🆙 Atualmente
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myllenabitar&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myllenabitar&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="165">
- <img src="https://streak-stats.demolab.com?user=MyllenaBitar&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="Streak Stats Atualizado" height="165">
-
+Atualmente, estou aprofundando meus conhecimentos em UI e UX, aprimorando conceitos de design de interfaces, usabilidade e consistência visual. Também sigo evoluindo no backend com C# e .NET, seguindo arquitetura MVC,
+ E revisando fundamentos de lógica, algoritmos e arquitetura de aplicações. 
 </p>
 
 ---
 
-## 📂 Como Contribuir
-Sinta-se à vontade para explorar meus repositórios, dar um ⭐ em projetos que você gostou, ou mesmo contribuir com ideias e melhorias. Estou aberta a colaborações!
-
----
-
-## 🆙 Atualmente 
-<p align="center">Atualmente, estou focando em me especializar mais ainda em UI E UX com o curso da Origamid. Estou sempre revisando lógica e algoritmos. Além disso, estou criando um site para ser meu blog pessoal, feito em Next.js e Typescript, onde vou compartilhar o que estou aprendendo com posts, vídeos e outras experiências. Estou tentando aprender uma nova ferramenta: Visual Studio e me introduzindo no mundo do backend com C#. Estou sempre procurando melhorar meus projetos atuais, adicionando algo novo ou aprimorando funcionalidades existentes.</p>
-
----
-
-## 📹 Videos
-Aqui está o meu portifólio sendo demonstrado em um video rápido!
-[Portifólio](https://youtu.be/zCms6GUZK6Q?si=hV36Rlp7QzQMxXlk)
-
-
-## 📬 Contato
-
-Vamos nos conectar e trocar ideias? 😄  
-
-<p align="center">
-<a href="https://www.linkedin.com/in/myllenadesouzabitar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:myllena.bitar@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://x.com/mdsb1992"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" alt="X"></a>
-<a href="https://youtube.com/myllenabitar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-
-### ☎️ [**Clique aqui para falar comigo no WhatsApp**](https://wa.me/5511963159685)
-</p>
-
----
-
-<h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos?! ✨</h4>
+<h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos? ✨</h4>
