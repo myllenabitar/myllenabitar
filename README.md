@@ -53,34 +53,6 @@ Atuo no desenvolvimento de aplicações web completas, criando interfaces respon
 
 ---
 
-## 🌟 Projetos em Destaque
-
-### 🎨 **Projeto SpaceX**
-
-🚀 Tecnologias: React.js, TypeScript, Tailwind CSS, API pública da SpaceX
-
-> Aplicação que consome a API pública da SpaceX para exibir informações detalhadas sobre lançamentos espaciais, com foco em organização de dados, performance e experiência do usuário.
-
-### 📋 **Gerenciador de Tarefas (To-Do List)**
-
-✅ Tecnologias: React.js, JavaScript
-
-> Aplicação para gerenciamento de tarefas com funcionalidades de adicionar, editar, excluir e concluir atividades.
-
-### 🗓️ **Agenda de Consultório**
-
-🏥 Tecnologias: Next.js, TypeScript, React Hook Form
-
-> Sistema de agendamento de consultas com seleção de datas, horários e profissionais, focado em usabilidade e organização.
-
-### 🌐 **Portfólio Online**
-
-💻 Tecnologias: HTML5, CSS3
-
-> Site pessoal para apresentação de projetos, habilidades e trajetória profissional.
-
----
-
 ## 🆙 Atualmente
 
 <p align="center">
