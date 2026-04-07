@@ -1,88 +1,74 @@
-.header{
-    max-width: 1200px;
-    padding: 40px 20px;
-    margin: 0 auto;
-    display:flex;
-    justify-content: space-between;
-    align-items: center;
-    justify-content: center;
-}
-.logo{
-   width: 32px;
-   height: 32px;
-   display: flex;
-}
-.header-menu::before {
-    content:"";
-    display: block;
-    width: 130px;
-    height: 100px;
-    background: url("../img/detalhe.svg") no-repeat center;
-    position: absolute;
-    top: -15px;
-    left: -40px;
-    z-index: -1;
-}
-.header-menu{
-    padding: 0;
-    display:flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 40px;
-    
-}
-.header-menu a{
-    font-size: 1.125rem;
-    font-weight: 500;
-    line-height: 1.3rem;
-    padding: 10px 20px;
-    text-decoration: none;
-    color:var(--color-preto);
-    display: block;
-    text-align: left;
-    
-}
-.header-menu a:hover{
-    color:var( --color-azul-escuro);
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.82);
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    transition: box-shadow var(--transition);
 }
 
-.header-menu a::after {
-    content:"";
-    display:block;
-    height:2px;
-    width:0px;
-    background: var( --color-azul-escuro);
-    transition: 0.3s;
-    position: absolute;
+.header nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
 }
-.header-menu a:hover:after,
-.header-menu a.ativo::after {
-    width:1%;
+
+.logo {
+    width: 28px;
+    height: 28px;
+    display: flex;
+    opacity: 0.85;
+    transition: opacity var(--transition);
 }
-@media (max-width:800px){
-    .logo{
+
+.logo:hover {
+    opacity: 1;
+}
+
+.header-menu {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    height: 52px;
+}
+
+.header-menu a {
+    font-size: 0.9375rem;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    padding: 8px 16px;
+    color: var(--color-preto);
+    border-radius: var(--radius-sm);
+    transition: background var(--transition), color var(--transition);
+    display: block;
+}
+
+.header-menu a:hover {
+    background: rgba(0, 0, 0, 0.05);
+    color: var(--color-azul);
+}
+
+@media (max-width: 800px) {
+    .header nav {
+        padding: 0 16px;
+    }
+
+    .header-menu {
+        height: 48px;
+        gap: 0;
+    }
+
+    .logo {
         width: 24px;
         height: 24px;
-        gap: 5px;
     }
-    .header {
-        padding:20px 10px;
-    }
-    .header ul{
-        flex-direction:row;
-        gap: 5px;
-        margin: 10px;
-    }
-    .header a{
-        background-color: var();
-        border-radius:4px;
-        grid-template-columns: 1fr;
-        font-size: 0.8rem; 
-        padding: 6px 10px; 
-    }
-    .header-menu::before {
-        width:30px;
-        height: 10px;
-        left:10px;
+
+    .header-menu a {
+        font-size: 0.8125rem;
+        padding: 6px 10px;
     }
 }
