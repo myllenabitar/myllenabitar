@@ -1,7 +1,7 @@
 # <h1 align="center"> Myllena de Souza Bitar - Desenvolvedora Fullstack 👩‍💻🎨 </h1>
 
 <p align="center">
-Criando soluções web que unem lógica, estética e experiência do usuário ✨
+Criando soluções web que unem lógica, estética e experiência do usuário 
 </p>
 
 ---
@@ -10,11 +10,11 @@ Criando soluções web que unem lógica, estética e experiência do usuário �
 
 Olá! Meu nome é **Myllena Bitar**, sou **Desenvolvedora Fullstack**, apaixonada por criar aplicações web que equilibram **funcionalidade, performance e design**.
 
-🦷 **Transição de Carreira**: Sou formada em **Odontologia** pela Universidade do Estado do Amazonas (UEA). Após me mudar para São Paulo, descobri a programação e encontrei na tecnologia a combinação perfeita entre lógica, criatividade e resolução de problemas.
+ **Transição de Carreira**: Sou formada em **Odontologia** pela Universidade do Estado do Amazonas (UEA). Após me mudar para São Paulo, descobri a programação e encontrei na tecnologia a combinação perfeita entre lógica, criatividade e resolução de problemas.
 
-💻 **Experiência e Evolução**: Atuo profissionalmente no desenvolvimento de soluções web voltadas a **Governança, Riscos e Compliance (GRC)**, trabalhando tanto no **front-end** quanto no **back-end**, além de participar da concepção visual e experiência do usuário através do **Figma**. Minha formação em tecnologia inclui cursos pela **Origamid**, **Alura**, **Udemy** e **Programaria**, além de mentorias que contribuíram fortemente para minha evolução técnica.
+ **Experiência e Evolução**: Atuo profissionalmente no desenvolvimento de soluções web voltadas a **Governança, Riscos e Compliance (GRC)**, trabalhando tanto no **front-end** quanto no **back-end**, além de participar da concepção visual e experiência do usuário através do **Figma**. Minha formação em tecnologia inclui cursos pela **Origamid**, **Alura**, **Udemy** e **Programaria**, além de mentorias que contribuíram fortemente para minha evolução técnica.
 
-⭐ **Meu objetivo** é desenvolver soluções escaláveis, bem estruturadas e visualmente agradáveis, sempre buscando boas práticas, aprendizado contínuo e impacto real no produto.
+ **Meu objetivo** é desenvolver soluções escaláveis, bem estruturadas e visualmente agradáveis, sempre buscando boas práticas, aprendizado contínuo e impacto real no produto.
 
 <p>
 Atuo no desenvolvimento de aplicações web completas, criando interfaces responsivas e interativas com foco em experiência do usuário, utilizando React, TypeScript, JavaScript, HTML e CSS. Trabalho com bibliotecas e frameworks modernos como Material UI, Next.js e Tailwind CSS, além de atuar no backend com C#, .NET e Node.js, garantindo integração eficiente entre front-end e back-end.
@@ -22,9 +22,9 @@ Atuo no desenvolvimento de aplicações web completas, criando interfaces respon
 
 ---
 
-## 🎯 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
-### 💻 Linguagens
+###  Linguagens
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
@@ -32,7 +32,7 @@ Atuo no desenvolvimento de aplicações web completas, criando interfaces respon
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=csharp\&logoColor=white)
 
-### 🚀 Frameworks, Bibliotecas e Arquitetura
+###  Frameworks, Bibliotecas e Arquitetura
 
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
@@ -44,7 +44,7 @@ Atuo no desenvolvimento de aplicações web completas, criando interfaces respon
 
 ![MVC](https://img.shields.io/badge/Arquitetura-MVC-6A5ACD?style=flat\&logo=dotnet\&logoColor=white)
 
-### 🎨 Design e Ferramentas
+###  Design e Ferramentas
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
@@ -53,7 +53,7 @@ Atuo no desenvolvimento de aplicações web completas, criando interfaces respon
 
 ---
 
-## 🆙 Atualmente
+##  Atualmente
 
 <p align="center">
 Atualmente, estou aprofundando meus conhecimentos em UI e UX, aprimorando conceitos de design de interfaces, usabilidade e consistência visual. Também sigo evoluindo no backend com C# e .NET, seguindo arquitetura MVC,
