@@ -1,46 +1,95 @@
-body{
-    -webkit-font-smoothing: antialiased;
-    text-rendering: optimizelegibility;
-     font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
-    margin: 0px;
-    color:#141414;
-    --color-preto:#141414;
-    --color-branco:#f5f5f5;
-    --color-azul-escuro:#0a29f5;
-    --color-azul-claro:#6375eb; 
-    --color-cinza-escuro: #525252;
-    --color-cinza-medio:#a3a3a3;
-    --color-cinza-claro:#cccccc;
-    
+*, *::before, *::after {
+    box-sizing: border-box;
 }
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    background: #ffffff;
+    color: #1d1d1f;
+
+    --color-preto: #1d1d1f;
+    --color-branco: #ffffff;
+    --color-azul: #0071e3;
+    --color-azul-hover: #0077ed;
+    --color-azul-escuro: #0071e3;
+    --color-azul-claro: #0071e3;
+    --color-cinza-escuro: #6e6e73;
+    --color-cinza-medio: #86868b;
+    --color-cinza-claro: #f5f5f7;
+    --color-cinza-borda: #d2d2d7;
+    --color-dark-bg: #000000;
+    --color-dark-card: #1c1c1e;
+
+    --radius-lg: 20px;
+    --radius-md: 12px;
+    --radius-sm: 8px;
+
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+    --shadow-md: 0 4px 24px rgba(0,0,0,0.08);
+    --shadow-lg: 0 12px 40px rgba(0,0,0,0.14);
+
+    --transition: 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
 html {
     scroll-behavior: smooth;
 }
-  
-h1, h2, h3, p{
-    margin: 0px;
+
+h1, h2, h3, p {
+    margin: 0;
 }
-ul{
-    margin:0px;
-    padding:0px;
-    list-style:none;
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
-img{
+
+img {
     max-width: 100%;
-    height:auto;
+    height: auto;
     display: block;
 }
-.subtitulo{
-    font-size: 8rem;
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.subtitulo {
+    font-size: clamp(3rem, 7vw, 6.5rem);
+    font-weight: 700;
     line-height: 1;
-    text-transform: uppercase;
+    letter-spacing: -0.04em;
     word-break: break-all;
     max-width: 4ch;
 }
-@media(max-width: 800px) {
-    .subtitulo{
-        font-size: 3rem;
-        text-transform: capitalize;
+
+.ponto-azul {
+    color: var(--color-azul);
+}
+
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(24px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 800px) {
+    .subtitulo {
+        font-size: 2.5rem;
+        font-weight: 700;
+        letter-spacing: -0.03em;
+        word-break: normal;
         max-width: initial !important;
-    }  
+    }
 }

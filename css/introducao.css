@@ -1,68 +1,85 @@
-.introducao{
+.introducao {
     max-width: 1200px;
-    padding: 40px 20px ;
+    padding: 80px 24px 100px;
     margin: 0 auto;
-    display:grid;
-    grid-template-columns: 4fr 8fr;
-    gap: 100px;
+    display: grid;
+    grid-template-columns: 380px 1fr;
+    gap: 80px;
     align-items: center;
+    animation: fadeUp 0.7s ease both;
 }
 
-.introducao h1{
-    font-size: 4.5rem;
-    line-height: 1.125;
-    margin-bottom:30px;
-    position: relative;
-}
-.introducao h1::before {
-    content:"";
-    display: block;
-    width: 130px;
-    height: 100px;
-    background: url("../img/detalhe.svg") no-repeat center;
-    position: absolute;
-    top: -15px;
-    left: -40px;
-    z-index: -1;
-}
-
-.classificacao{
-    font-size: 1.5rem;
-    color:var(--color-cinza-escuro);
-    gap: 10px;
-}
-.ponto-azul{
-    color: var(--color-azul-claro);
-}
 .myllena {
-    border-radius: 10px;
+    border-radius: var(--radius-lg);
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    box-shadow: var(--shadow-lg);
+    transition: transform var(--transition), box-shadow var(--transition);
 }
+
+.myllena:hover {
+    transform: scale(1.015);
+    box-shadow: 0 20px 60px rgba(0,0,0,0.18);
+}
+
+.introducao h1 {
+    font-size: clamp(3rem, 5.5vw, 5.5rem);
+    font-weight: 700;
+    line-height: 1.05;
+    letter-spacing: -0.04em;
+    color: var(--color-preto);
+    margin-bottom: 28px;
+}
+
+.classificacao {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: var(--color-cinza-escuro);
+    letter-spacing: -0.01em;
+    line-height: 1.5;
+}
+
+.classificacao + .classificacao {
+    margin-top: 6px;
+}
+
 @media (max-width: 1000px) {
-    .introducao h1{
-        font-size: 3rem;
+    .introducao {
+        grid-template-columns: 300px 1fr;
+        gap: 60px;
+    }
+
+    .introducao h1 {
+        font-size: 3.5rem;
     }
 }
 
 @media (max-width: 800px) {
     .introducao {
         grid-template-columns: 1fr 1fr;
-        gap:40px;
+        gap: 32px;
+        padding: 48px 20px 64px;
     }
-    .introducao h1{
-        font-size: 2rem;
+
+    .introducao h1 {
+        font-size: 2.25rem;
+        margin-bottom: 20px;
     }
-    .introducao h1::before {
-        width:30px;
-        height: 10px;
-        left:10px;
+
+    .classificacao {
+        font-size: 1rem;
     }
 }
-@media (max-width: 400px) {
-    .introducao{
+
+@media (max-width: 500px) {
+    .introducao {
         grid-template-columns: 1fr;
+        padding: 40px 20px 56px;
     }
-    .introducao img {
-        display:none;
+
+    .myllena {
+        max-width: 220px;
+        aspect-ratio: 1/1;
     }
-    
 }
