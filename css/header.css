@@ -15,17 +15,10 @@
     margin: 0 auto;
     padding: 0 24px;
 }
-
 .logo {
     width: 28px;
     height: 28px;
     display: flex;
-    opacity: 0.85;
-    transition: opacity var(--transition);
-}
-
-.logo:hover {
-    opacity: 1;
 }
 
 .header-menu {
