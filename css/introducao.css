@@ -10,7 +10,7 @@
 }
 
 .myllena {
-    border-radius: var(--radius-lg);
+    border-radius: 200px;
     width: 100%;
     aspect-ratio: 3/4;
     object-fit: cover;
