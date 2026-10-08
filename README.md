@@ -1,4 +1,4 @@
-# <h1 align="center"> Myllena de Souza Bitar - Desenvolvedora Fullstack 👩‍💻🎨 </h1>
+# <h1 align="center"> Myllena de Souza Bitar - Desenvolvedora Fullstack </h1>
 
 <p align="center">
 Criando soluções web que unem lógica, estética e experiência do usuário 
@@ -6,7 +6,7 @@ Criando soluções web que unem lógica, estética e experiência do usuário
 
 ---
 
-## ✨ Sobre Mim
+## Sobre Mim
 
 Olá! Meu nome é **Myllena Bitar**, sou **Desenvolvedora Fullstack**, apaixonada por criar aplicações web que equilibram **funcionalidade, performance e design**.
 
@@ -62,4 +62,4 @@ Atualmente, estou aprofundando meus conhecimentos em UI e UX, aprimorando concei
 
 ---
 
-<h4 align="center">✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos? ✨</h4>
+<h4 align="center">Obrigada por visitar meu perfil! Vamos construir algo incrível juntos? </h4>
