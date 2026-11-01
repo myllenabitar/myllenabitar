@@ -8,9 +8,9 @@ Criando soluções web que unem lógica, estética e experiência do usuário
 
 ## Sobre Mim
 
-Olá! Meu nome é **Myllena Bitar**, sou **Desenvolvedora Fullstack**, apaixonada por criar aplicações web que equilibram **funcionalidade, performance e design**.
+Olá! Meu nome é **Myllena Bitar**, sou **Desenvolvedora Fullstack**, crio produtos digitais intuitivos, performáticos e escaláveis.
 
- **Transição de Carreira**: Sou formada em **Odontologia** pela Universidade do Estado do Amazonas (UEA). Após me mudar para São Paulo, descobri a programação e encontrei na tecnologia a combinação perfeita entre lógica, criatividade e resolução de problemas.
+ **Transição de Carreira**: Sou formada em **Odontologia** pela Universidade do Estado do Amazonas (UEA). Após me mudar para São Paulo, descobri a programação e encontrei na tecnologia a combinação perfeita entre pensamento lógico, criatividade e resolução de problemas.
 
  **Experiência e Evolução**: Atuo profissionalmente no desenvolvimento de soluções web voltadas a **Governança, Riscos e Compliance (GRC)**, trabalhando tanto no **front-end** quanto no **back-end**, além de participar da concepção visual e experiência do usuário através do **Figma**. Minha formação em tecnologia inclui cursos pela **Origamid**, **Alura**, **Udemy** e **Programaria**, além de mentorias que contribuíram fortemente para minha evolução técnica.
 
@@ -62,4 +62,4 @@ Atualmente, estou aprofundando meus conhecimentos em UI e UX, aprimorando concei
 
 ---
 
-<h4 align="center">Obrigada por visitar meu perfil! Vamos construir algo incrível juntos? </h4>
+<h4 align="center">Obrigada por visitar meu perfil! </h4>
